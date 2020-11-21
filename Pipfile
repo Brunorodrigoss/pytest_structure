@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+requests = "*"
+pytest-html = "*"
+pytest-cov = "*"
+pytest-xdist = "*"
+pytest-bdd = "*"
+
+[packages]
+
+[requires]
+python_version = "3.6"
